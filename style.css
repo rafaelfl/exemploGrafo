@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  height: 100vh;
+  margin: 0;
+}
+
+#meuCanvas {
+  flex: 1;
+  background-color: lightgray;
+}
